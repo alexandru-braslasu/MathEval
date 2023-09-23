@@ -1,0 +1,11 @@
+C:\Users\Alexandru Braslasu\OneDrive\Desktop\Programe C#\MathEval\bin\Debug\MathEval.exe.config
+C:\Users\Alexandru Braslasu\OneDrive\Desktop\Programe C#\MathEval\bin\Debug\MathEval.exe
+C:\Users\Alexandru Braslasu\OneDrive\Desktop\Programe C#\MathEval\bin\Debug\MathEval.pdb
+C:\Users\Alexandru Braslasu\OneDrive\Desktop\Programe C#\MathEval\obj\Debug\MathEval.csprojAssemblyReference.cache
+C:\Users\Alexandru Braslasu\OneDrive\Desktop\Programe C#\MathEval\obj\Debug\MathEval.MathEval.resources
+C:\Users\Alexandru Braslasu\OneDrive\Desktop\Programe C#\MathEval\obj\Debug\MathEval.Properties.Resources.resources
+C:\Users\Alexandru Braslasu\OneDrive\Desktop\Programe C#\MathEval\obj\Debug\MathEval.csproj.GenerateResource.cache
+C:\Users\Alexandru Braslasu\OneDrive\Desktop\Programe C#\MathEval\obj\Debug\MathEval.csproj.CoreCompileInputs.cache
+C:\Users\Alexandru Braslasu\OneDrive\Desktop\Programe C#\MathEval\obj\Debug\MathEval.exe
+C:\Users\Alexandru Braslasu\OneDrive\Desktop\Programe C#\MathEval\obj\Debug\MathEval.pdb
+C:\Users\Alexandru Braslasu\OneDrive\Desktop\Programe C#\MathEval\obj\Debug\MathEval.test.resources
